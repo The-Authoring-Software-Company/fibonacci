@@ -38,3 +38,15 @@ Run tests:
 ```bash
 mvn test
 ```
+
+### Repository Management
+
+To work on this project, please **fork** this repository to your own GitHub account.
+
+1. Click the **Fork** button at the top of this repository page
+2. When prompted for how you plan to use the fork, select **"To Contribute to the parent project"**
+3. Clone your fork locally: `git clone https://github.com/YOUR_USERNAME/fibonacci.git`
+4. Create a branch for your work: `git checkout -b your-branch-name`
+5. Make your changes and commit them
+6. Push to your fork: `git push origin your-branch-name`
+7. Create a Pull Request from your fork back to this repository for review
